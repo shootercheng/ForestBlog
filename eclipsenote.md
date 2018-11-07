@@ -15,6 +15,8 @@
 
 [rootLogger根配置以及4种日志级别](http://www.cnblogs.com/mengxinrenyu/p/7636400.html)
 
+[Log4j输出多了空格](https://jingyan.baidu.com/article/48a420570e3085a924250425.html)
+
 
 ### Eclipse 部署环境配置
 
